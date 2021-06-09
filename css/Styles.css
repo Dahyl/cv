@@ -1,0 +1,20 @@
+body {
+   background-color: #faf1e6;
+}
+
+hr {
+    color: #325288;
+    border-style: dotted none none;
+    border-width: 10px;
+    width: 30%;
+  }
+
+  h1{
+    color: #a0937d;
+    font-family: fantasy;
+  }
+
+  h3{
+    color: #325288;
+    font-family: inherit;
+  }
